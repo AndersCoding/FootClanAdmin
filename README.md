@@ -40,11 +40,9 @@ A solution for admin of the Footclan. Add, or delete, members of your clan!
 
   
 
-1. Navigate to the `frontend`-folder:
+1. Navigate to the `app`-folder, where the frontend-code is located:
 
 ```bash
-
-cd frontend
 
 npm install
 
