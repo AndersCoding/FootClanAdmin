@@ -4,7 +4,7 @@ import React from 'react'
 export default function settings() {
   return (
     <View style = {styles.container}>
-      <Text>Settings</Text>
+      <Text>Under construction</Text>
     </View>
   )
 }
