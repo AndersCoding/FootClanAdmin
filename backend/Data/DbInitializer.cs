@@ -13,8 +13,8 @@ namespace backend.Data;
            {
                 new User { Name = "Leonardo", Email = "leo@turtles.com" },
                 new User { Name = "Donatello", Email = "don@turtles.com" },
-                new User { Name = "Raphael", Email = "raph@turtles.com" },
-                new User { Name = "Michelangelo", Email = "mike@turtles.com" }
+           /*      new User { Name = "Raphael", Email = "raph@turtles.com" },
+                new User { Name = "Michelangelo", Email = "mike@turtles.com" } */
             };
                 
             context.Users.AddRange(users);
